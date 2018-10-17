@@ -40,11 +40,12 @@ header {
 label {
 	color: purple;
 	background-color:aqua;
-	font-size: 25px;
+	font-size: 15px;
 	margin-right: 10px;
 	border-color: aqua;
 	margin-left: 200px;
-	margin-top: 50px;
+	margin-top: 40px;
+	
 }
 #addGif{
 	background-color: green;

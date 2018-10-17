@@ -1,0 +1,80 @@
+.container {
+	width: 100%;
+	margin-top: 20px;
+	padding: 20px;
+	font-family: cursive;
+	background-color: pink;
+
+}
+
+
+* {
+	box-sizing: border-box;
+}
+
+
+.btn {
+	margin-top: 20px;
+	margin: 10px;
+	opacity: .8;
+	color: green;
+	background-color: yellow;
+	border-color: plum;
+}
+
+header {
+	color: brown;
+	margin-bottom: auto;
+	padding-bottom: 20px;
+	padding-top: 25px;
+	margin-right: 10%;
+	margin-left: 10%;
+	text-align: center;
+	opacity: .6;
+	margin: 0 auto;
+	background-color: black;
+	background: url(../images/musical.jpg) center center fixed;
+}
+
+
+label {
+	color: purple;
+	background-color:aqua;
+	font-size: 25px;
+	margin-right: 10px;
+	border-color: aqua;
+	margin-left: 200px;
+	margin-top: 50px;
+}
+#addGif{
+	background-color: green;
+	color: black;
+	margin-left: 200px;
+	margin-top: 20px
+}
+#removeGif{
+	background-color: red;
+	color: white;
+	margin-left: 90px;
+	margin-top: 20px;
+
+}
+
+p {
+	color: purple;
+	font-size: 16px;
+}
+
+.audio {
+	display: none;
+}
+
+div1 {
+	display: inline-block;
+	float: left;
+	margin: 10px;
+}
+.group{
+	background:url(../images/flower.jpg) center center fixed; 
+	height: 300px;
+}

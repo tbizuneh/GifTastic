@@ -19,5 +19,5 @@ When clicks one of the still GIPHY images, the gif should animate. If the gif cl
 Under every gif, its rating will be displayed (PG, G, so on).This data is provided by the GIPHY API.
 
 
-click the linck to see your favorite singer gif.
+click here to see your favorite singer gif.
  https://tbizuneh.github.io/GifTastic/

@@ -4,10 +4,10 @@ The GIPHY API was used to make a dynamic web page that populates gifs of a femal
 
 Tech Used
 
-HTML5
-CSS
-JAVASCRIPT
-CSS
+HTML5, 
+CSS, 
+JAVASCRIPT, 
+CSS, and
 Giphy API
 
 Instructions
